@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Fb_negative_email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1d56c59-9358-45b5-af27-a4a5105d4900</testCaseGuid>
+</TestCaseEntity>

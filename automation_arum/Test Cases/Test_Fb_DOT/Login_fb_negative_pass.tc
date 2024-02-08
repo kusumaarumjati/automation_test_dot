@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_fb_negative_pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f71dbd01-9c7e-4bc1-a1cf-05601d8b6b65</testCaseGuid>
+</TestCaseEntity>
